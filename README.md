@@ -5,8 +5,6 @@ This repository contains a simple MERN application that was created as part of b
 
 ## React app
 
-Docs to the `R` part of `MERN`.
-
 ### SPA Pages
 
 | Endpoint      | Description                      | Access                |
